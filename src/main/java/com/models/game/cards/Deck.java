@@ -6,12 +6,6 @@ import com.models.game.cards.exceptions.DeckIsEmptyException;
 
 import java.util.*;
 
-/*
-   - A deck has 52 cards
-   - There are 4 suits (naipe): hearts, diamonds, clubs, spades
-   - Ace (Ás: 1), Jack (Valete: 11), Queen (Rainha: 12), King (Rei: 13)
-   - Operations on deck: shuffle, cut, deal (give cards)
-*/
 public class Deck {
 
     private Deque<Card> cards = new ArrayDeque<>();
