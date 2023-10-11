@@ -1,7 +1,7 @@
-package com.models.game.cards;
+package com.models.game.cards.deck.enums;
 
-import com.models.game.cards.exceptions.EmptyCardException;
-import com.models.game.cards.exceptions.NonExistentCardException;
+import com.models.game.cards.deck.enums.exceptions.EmptyCardException;
+import com.models.game.cards.deck.enums.exceptions.NonExistentCardException;
 
 import java.util.ArrayList;
 import java.util.List;

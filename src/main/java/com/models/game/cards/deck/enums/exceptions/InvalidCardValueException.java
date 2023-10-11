@@ -1,4 +1,4 @@
-package com.models.game.cards.exceptions;
+package com.models.game.cards.deck.enums.exceptions;
 
 public class InvalidCardValueException extends RuntimeException {
     public InvalidCardValueException(String message) {

@@ -1,8 +1,6 @@
-package com.models.game.cards;
+package com.models.game.cards.deck.enums;
 
-import com.models.game.cards.enums.Suit;
-import com.models.game.cards.enums.Type;
-import com.models.game.cards.exceptions.DeckIsEmptyException;
+import com.models.game.cards.deck.enums.exceptions.DeckIsEmptyException;
 
 import java.util.*;
 

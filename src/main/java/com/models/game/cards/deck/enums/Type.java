@@ -1,4 +1,4 @@
-package com.models.game.cards.enums;
+package com.models.game.cards.deck.enums;
 
 public enum Type {
     ACE,
